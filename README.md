@@ -1,9 +1,10 @@
 # Integrador-Full-Stack
-Curso Silicon React
+Curso Silicon React 
 
 # turnos_medicos_app
 
-Este es un proyecto para la gestión de turnos médicos, desarrollado con Node.js, Express y MySQL en el backend suma React para el frontend
+Este es un proyecto para la gestión de turnos médicos, desarrollado con Node.js, Express y MySQL en el backend suma React para el frontend.
+participante Sergio Orozco
 
 
 
