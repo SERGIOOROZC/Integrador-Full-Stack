@@ -15,3 +15,21 @@ crear las carpetas “styles”, “components” y “pages” dentro de la car
 • dentro de la carpeta /src/styles crear el archivo styles.css
 • dentro de la carpeta /src/pages crear los componentes Home.jsx y Login.jsx
 • dentro de la carpeta /src/components crear el componente Navbar.jsx
+
+
+**creo una funcion**
+function Menu() {
+    return (escribo el componente en html );
+}
+
+
+**llamo la funcion**
+function App() {
+    return (
+        <>
+        { Menu() }
+        { Header() }
+        { Footer() }
+        </>
+    );
+}
