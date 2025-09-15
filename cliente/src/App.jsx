@@ -1,14 +1,14 @@
-import { useState } from 'react';
-import Navbar from './components/Navbar';
+// src/App.jsx
 
+import { useState } from 'react';
+import Navbar from './components/Navbar'; // Estás importando el componente aquí
 
 function App() {
-  
 
-  return (
+return (
     <>
-      {Navbar()}
-      <p>soy yo</p>
+    {Navbar()}
+    <p>soy yo</p>
     </>
   )
 }
